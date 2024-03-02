@@ -1,0 +1,18 @@
+.odd-text {
+    background-color: rgb(252, 161, 161);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-text {
+    color: rgb(79, 79, 233);
+    font-size: 36px;
+}
+
+.adj-font-size {
+    font-size: 24px;
+}
+
+#green-bg {
+    background-color: rgb(124, 252, 124);
+    font-weight: bold;
+}
